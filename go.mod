@@ -1,4 +1,4 @@
-module github.com/hudl/fargo
+module github.com/sxgluxw/fargo
 
 go 1.12
 
